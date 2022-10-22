@@ -17,7 +17,8 @@
   <img align="center" alt="GAPE-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="GAPE-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="GAPE-React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="GAPE-NODE" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="GAPE-Node" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="GAPE-Mongo" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <br>
 
 <h2 align="center"> Contact </h2>
@@ -29,7 +30,7 @@
 <br>
 
 <div align="center">
-  <img width="450" src="https://media.tenor.com/tuvk4qUAcaUAAAAi/baby-yoda-star-wars.gif">
+  <img width="450" alt="A master yoda GIF" src="https://media.tenor.com/tuvk4qUAcaUAAAAi/baby-yoda-star-wars.gif">
 </div>
 <br>
 
