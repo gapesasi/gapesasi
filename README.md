@@ -1,10 +1,9 @@
 ### Hello! My name is Gabriel Pereira👋
 - 🌱I'm currently studying as hard as I can to be a Java backend developer.
-- 🔨Although I want to be a backend dev, I have worked in real projects being fullstack using:
+- 🔨Although I want to be a backend dev, I have worked in real projects being a fullstack using:
 
   - React + NodeJs + Firebase 
   - React + NodeJs + MySQL
-  - Flutter + NodeJs + MySQL
 
 <br>
 
