@@ -1,43 +1,69 @@
-### Hello! My name is Gabriel Pereira👋
-- 🌱I'm currently studying as hard as I can to be a Java backend developer.
-- 🔨Although I want to be a backend dev, I have worked in real projects being a fullstack using:
+<h1 align="center">
+ Hello, I'm Gabriel Santana👋
+</h1>
 
-  - React + NodeJs + Firebase 
-  - React + NodeJs + MySQL
+## **🌱 About me:**
+* 19 years old
+* I'm currently studying as hard as I can to be a Java backend developer.
+* Although I want to be a backend dev, I have worked in real projects being a fullstack developer using:
+
+  - React | NodeJs | Firebase 
+  - React | NodeJs | MySQL
 
 <br>
 
-| <a href="https://github.com/gapesasi"> <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=gapesasi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> | <a href="https://github.com/gapesasi"> <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gapesasi&layout=compact&langs_count=7&theme=dracula"/> |
-| ------------- | ------------- |
+## **🔨 My Skills:**
+<details>
+  <summary>Languagues</summary>
+ 
+ > ![Java](https://img.shields.io/badge/java-f57319?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+</details>
 
-<br>
+<details>
+  <summary>Frameworks</summary>
+ 
+ > ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+</details>
 
-<div style="display: inline_block">
-<h2 align="center">Languagues and tools</h2>
-<br>
+<details>
+  <summary>Databases</summary>
+ 
+ > ![MySQL](https://img.shields.io/badge/mysql-2c5b82.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-f5820d.svg?style=for-the-badge&logo=firebase&logoColor=white)
+</details>
+
+<details>
+  <summary>Versioning</summary>
   
-  <img align="center" alt="GAPE-Node" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="GAPE-Node" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="GAPE-Node" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="GAPE-MySql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="GAPE-Mongo" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  <img align="center" alt="GAPE-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="GAPE-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="GAPE-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+> ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+</details>
 
+<details>
+  <summary>Tools</summary>
+  
+> ![Intellij Idea](https://img.shields.io/badge/Intellij%20Idea-500c6b.svg?style=for-the-badge&logo=intellijidea)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Notion](https://img.shields.io/badge/notion-%23000000.svg?style=for-the-badge&logo=notion)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+</details>
 <br>
 
-<h2 align="center"> Contact </h2>
+## **📞 Contact:**
 <div>
-  <a href="https://instagram.com/bielbr13" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gabrielpe1928@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-pereira-santana-010012219" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/gabriel-santana-010012219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+##
 <br>
 
-<div align="center">
-  <img width="450" alt="A master yoda GIF" src="https://media.tenor.com/tuvk4qUAcaUAAAAi/baby-yoda-star-wars.gif">
-</div>
-<br>
-
-</div>
+| <a href="https://github.com/gapesasi"> <img align="center" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gapesasi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> | <a href="https://github.com/gapesasi"> <img align="center" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gapesasi&layout=compact&langs_count=7&theme=dracula"/> |
+| ------------- | ------------- |
