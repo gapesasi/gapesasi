@@ -9,6 +9,7 @@
 
   - React | NodeJs | Firebase 
   - React | NodeJs | MySQL
+  - Flutter | Firebase
 
 <br>
 
@@ -17,6 +18,7 @@
   <summary>Languagues</summary>
  
  > ![Java](https://img.shields.io/badge/java-f57319?style=for-the-badge&logo=java&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-02355e?style=for-the-badge&logo=dart&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -25,8 +27,12 @@
 <details>
   <summary>Frameworks</summary>
  
- > ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+ > ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/flutter-02355e?style=for-the-badge&logo=flutter&logoColor=white)
+![JUnit](https://img.shields.io/badge/jUnit-dc524a?style=for-the-badge&logo=jUnit&logoColor=white)
+![Mocha](https://img.shields.io/badge/mocha-8d6748?style=for-the-badge&logo=mocha&logoColor=white)
 </details>
 
 <details>
