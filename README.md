@@ -6,7 +6,7 @@
 I am a Brazilian mid level backend software engineer and I am passionate about solving problems. 
 <br>
 Currently an Information Systems undergraduate student at UEMG - Universidade do Estado de Minas Gerais, Ituiutaba - Brazil.
-Helping build the future of blockchain at ![Liqi Digital Assets](https://www.linkedin.com/company/liqibr/posts/?feedView=all).
+Helping build the future of blockchain at <a href = "https://www.linkedin.com/company/liqibr/posts/?feedView=all">Liqi Digital Assets</a>.
 
 ## **📞 Contact:**
 <div>
