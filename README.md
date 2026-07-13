@@ -3,9 +3,10 @@
 </h1>
 
 ## **🌱 About me:**
-I am a Brazilian junior full-stack developer and I am passionate about solving problems. 
+I am a Brazilian mid level backend software engineer and I am passionate about solving problems. 
 <br>
-I am currently an Information Systems undergraduate student at UEMG - Universidade do Estado de Minas Gerais, Ituiutaba - Brazil.
+Currently an Information Systems undergraduate student at UEMG - Universidade do Estado de Minas Gerais, Ituiutaba - Brazil.
+Helping build the future of blockchain at ![Liqi Digital Assets](https://github.com/liqi-da).
 
 ## **📞 Contact:**
 <div>
@@ -17,6 +18,7 @@ I am currently an Information Systems undergraduate student at UEMG - Universida
 
 ### Languagues
 
+![Golang](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -37,7 +39,8 @@ I am currently an Information Systems undergraduate student at UEMG - Universida
 ![Flutter](https://img.shields.io/badge/flutter-02355e?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### Databases
- 
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-2c5b82.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
